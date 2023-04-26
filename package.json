@@ -1,0 +1,8 @@
+{
+    "name": "snake-pytorch-experiment",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "chmod +x ./start.sh &&  ./start.sh"
+    }
+  }
+  
