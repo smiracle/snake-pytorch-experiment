@@ -2,7 +2,9 @@
     "name": "snake-pytorch-experiment",
     "version": "1.0.0",
     "scripts": {
-      "start": "chmod +x ./start.sh &&  ./start.sh"
+      "start": "chmod +x ./start.sh &&  ./start.sh",
+      "install_pygame": "source activate pygame_env_new && pip install pygame",
+      "deactivate_conda": "conda deactivate"
     }
   }
   
